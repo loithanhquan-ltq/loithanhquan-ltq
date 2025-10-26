@@ -1,4 +1,6 @@
-## Xin Chào 
+## Chào bạn, Lợi Thanh Quan đây!
+
+Mình là Kỹ sư Cơ điện tử, hiện đang công tác tại tập đoàn Bosch Việt Nam.
 
 <!--
 **loithanhquan-ltq/loithanhquan-ltq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
