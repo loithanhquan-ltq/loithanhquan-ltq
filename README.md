@@ -1,7 +1,6 @@
 ## Chào bạn, 
-![Uploading Image 2-11-25 at 12.28.jpg…]()
-Mình tên là Lợi Thanh Quan, Kỹ sư Cơ điện tử, hiện đang công tác tại tập đoàn Bosch Việt Nam.
 
+Mình tên là Lợi Thanh Quan, Kỹ sư Cơ điện tử, hiện đang công tác tại tập đoàn Bosch Việt Nam.
 <!--
 **loithanhquan-ltq/loithanhquan-ltq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
